@@ -51,14 +51,6 @@
 
 - Español (Nativo)
 - Inglés (C2)
-- 
----
-
-## 📊 Mi actividad en GitHub
-
-![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoecastillodev&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorenzoecastillodev&theme=dark&hide_border=true)
 
 <div align="center">
 
