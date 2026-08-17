@@ -1,17 +1,65 @@
+<div align="center">
 
-# Heyy, I'm Lorenzo 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5a3d&height=200&section=header&text=LORENZO%20CASTILLO&fontSize=45&fontColor=ffffff&desc=Software%20Development%20Student&descAlignY=60&descSize=20)
 
-• Estudiante de Desarrollo de Software, aprendiendo un poco cada día.
+</div>
 
-• Actualmente enfocado en C#, SQL y Desarrollo Web
+## Sup, ¡Lorenzo de este lado! 👋
 
-• Aprendiendo Python y Backend
+> Estudiante de Desarrollo de Software, enfocado en construir bases sólidas en backend y bases de datos. Trabajo con C# y SQL Server, con experiencia práctica en desarrollo web, y actualmente ampliando mi stack hacia Python y Firebase. Me gusta aprender haciendo y entender bien cómo funcionan las cosas por dentro antes de usarlas.
 
-### 🛠️ Tech Stack
+<div align="center">
 
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### `Software Development Student`
+
+</div>
+
+---
+
+## 💻 Habilidades Técnicas
+
+| Área | Tecnologías |
+|---|---|
+| **Backend** | C#, SQL Server |
+| **Frontend / Web** | HTML, CSS, JS |
+| **Bases de Datos** | SQL Server, Firebase |
+| **Aprendiendo** | Python, Backend avanzado |
+
+---
+
+## 📈 Most Used Languages
+
+![Lorenzo's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoecastillodev&layout=compact&theme=dark&hide_border=true)
+
+---
+
+## 📁 Certificaciones
+
+*(agregá acá tus certificados, ej: cursos de C#, SQL Server, Firebase, etc.)*
+
+- **Analista de datos** (Fundación Carlos Slim, Capacítate para el Empleo)
+- **Programador en C#** (Fundación Carlos Slim, Capacítate para el Empleo)
+- **Programador en C#** (Fundación Carlos Slim, Capacítate para el Empleo)
+- **EF Level 16 - Upper Advanced - CEFR Level C2** (English for a better life)
+- **Python Certification** (FreeCodeCamp)
+- 
+---
+
+## 🌐 Idiomas
+
+- Español (Nativo)
+- Inglés (C2)
+- 
+---
+
+## 📊 Mi actividad en GitHub
+
+![Lorenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzoecastillodev&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lorenzoecastillodev&theme=dark&hide_border=true)
+
+<div align="center">
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5a3d&height=100&section=footer)
+
+</div>
