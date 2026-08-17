@@ -4,7 +4,7 @@
 
 </div>
 
-## Sup, ¡Lorenzo de este lado! 👋
+## print("¡Hola! Soy Lorenzo") ⚡
 
 > Estudiante de Desarrollo de Software, enfocado en construir bases sólidas en backend y bases de datos. Trabajo con C# y SQL Server, con experiencia práctica en desarrollo web, y actualmente ampliando mi stack hacia Python y Firebase. Me gusta aprender haciendo y entender bien cómo funcionan las cosas por dentro antes de usarlas.
 
