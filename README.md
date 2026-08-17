@@ -15,27 +15,29 @@
 </div>
 
 ---
+## 💻 Habilidades Técnicas & 📈 Most Used Languages
 
-## 💻 Habilidades Técnicas
+<table>
+<tr>
+<td valign="top">
 
 | Área | Tecnologías |
 |---|---|
 | **Backend** | C#, SQL Server |
-| **Frontend / Web** | HTML, CSS, JS |
+| **Frontend / Web** | HTML, CSS, Desarrollo Web |
 | **Bases de Datos** | SQL Server, Firebase |
 | **Aprendiendo** | Python, Backend avanzado |
 
----
+</td>
+<td valign="top">
 
-## 📈 Most Used Languages
 
-![Lorenzo's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoecastillodev&layout=compact&theme=dark&hide_border=true)
-
+</td>
+</tr>
+</table>
 ---
 
 ## 📁 Certificaciones
-
-*(agregá acá tus certificados, ej: cursos de C#, SQL Server, Firebase, etc.)*
 
 - **Analista de datos** (Fundación Carlos Slim, Capacítate para el Empleo)
 - **Programador en C#** (Fundación Carlos Slim, Capacítate para el Empleo)
