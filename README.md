@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2d5a3d&height=200&section=header&text=LORENZO%20CASTILLO&fontSize=45&fontColor=ffffff&desc=Software%20Development%20Student&descAlignY=60&descSize=20)
+<img src="./banner.png" alt="Lorenzo Castillo - Software Development Student" width="100%">
 
 # ¡Hola! Soy Lorenzo ⚡
 
@@ -22,3 +22,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
