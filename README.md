@@ -2,7 +2,7 @@
 
 <img src="./banner.png" alt="Lorenzo Castillo - Software Development Student" width="100%">
 
-# ¡Hola! Soy Lorenzo ⚡
+<h1>¡Hola! Soy Lorenzo <img src="./popcat-pop.gif" alt="Popcat" width="35"></h1>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lorenzo.ecastillo.dev@gmail.com)
 
